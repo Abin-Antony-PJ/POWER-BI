@@ -6,8 +6,8 @@ This repository contains complete Power BI case studies created by me using real
 
 ## 1. BMW Global Sales Performance (2019–2023)
 
-- [Dashboard](./ADIDAS%20POWER%20BI%20PROJECT.pbix) 
-- [Presentation (PPT)](./BMW%20GSP%20(2019-2023).pptx)
+- **Dashboard**[BMW GSP DASHBOARD](./BMW%20GLOBAL%20SALES%20PERFORMANCE%20DASHBOARD.pbix) 
+- **Presentation**[BMW GSP PRESENTATION](./BMW%20GSP%20(2019-2023).pptx)
 - Report: BMW GLOBAL SALES PERFORMANCE Summary
 - **Focus**: Sales performance across global regions, year-wise trends, visual insights
 - Tools: Power BI, Excel
@@ -16,8 +16,8 @@ This repository contains complete Power BI case studies created by me using real
 
 ## 2. Adidas Sales Performance (2020-2021)
 
-- [Dashboard](./ADIDAS%20POWER%20BI%20PROJECT.pbix) 
-- [Presentation (PPT)](./ADIDAS%20power%20bi-project.pptx)
+- **Dashboard**[ADIDAS SALES PERFORMANCE DASHBOARD](./ADIDAS%20POWER%20BI%20PROJECT.pbix) 
+- **Presentation**[ADIDAS SALES PERFORMANCE PRESENTATION](./ADIDAS%20power%20bi-project.pptx)
 - **Focus**: Regional Sales, Profit by Sales Method, profitability patterns
 - Tools: Power BI, Excel
 
@@ -25,11 +25,20 @@ This repository contains complete Power BI case studies created by me using real
 
 ## 3. Tesla Marketing Insights
 
-- [Dashboard](./TESLA%20MARKETING%20INSGHTS.pbix)
-- [Presentation (PPT)](./TESLA%20PPT.pptx)
-- [Dataset](./TESLA%20%20CAR%20model%20images.csv)
+- **Dashboard**[TESLA MARKETING INSIGHTS DASHBOARD](./TESLA%20MARKETING%20INSGHTS.pbix)
+- **Presentation**[TESLA MARKETING INSIGHTS PRESENTATION](./TESLA%20PPT.pptx)
+- **Dataset**[TESLA MODEL IMAGES](./TESLA%20%20CAR%20model%20images.csv)
 - **Focus**: Model-wise insights, Visual engagement
 - Tools: Power BI, Excel
+
+---
+
+## Usage Notice
+
+This dashboard and presentation are part of my personal data visualization portfolio.  
+**Do not copy, modify, redistribute, or reuse** these assets without permission.
+
+© 2025 Abin Antony P J. All rights reserved.
 
 ---
 
@@ -52,12 +61,11 @@ To preview dashboards or get interactive versions, email me at:
 
 ## About Me
 
-I'm Abin Antony P J, a data science and business graduate passionate about leveraging analytics for real impact.  
-My goal is to turn raw data into compelling stories that drive decisions.
+I'm **Abin Antony P J**, a data science graduate passionate about crafting data-driven narratives that inform and inspire.  
+This repository showcases my ability to turn raw datasets into clear, impactful insights.
 
-[Email]: abinantonypj08@gmail.com  
-[LinkedIn]: https://www.linkedin.com/in/abin-antony-p-j
-[GitHub]: https://github.com/Abin-Antony-PJ
+**Email**: [abinantonypj08@gmail.com](abinantonypj08@gmail.com)
+**LinkedIn**: [https://www.linkedin.com/in/abin-antony-p-j/](https://www.linkedin.com/in/abin-antony-p-j/)
 
 ---
 
