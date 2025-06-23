@@ -33,6 +33,14 @@ This repository contains complete Power BI case studies created by me using real
 
 ---
 
+## 4. Tracking Global Unicorn Insights by Industry and Valuation
+
+- **Dashboard**:[TRACKING GLOBAL UNICORN INSIGHTS DASHBOARD](./Tracking%20Global%20Unicorns%20-%20Insights%20by%20Industry%20and%20Valuation.pbix)
+- **Focus**: Global-wise insights, Visual engagement
+- Tools: Power BI, Excel
+
+---
+
 ## Usage Notice
 
 This dashboard and presentation are part of my personal data visualization portfolio.  
