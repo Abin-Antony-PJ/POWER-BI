@@ -27,8 +27,7 @@ This repository contains complete Power BI case studies created by me using real
 
 - [Dashboard](./TESLA%20MARKETING%20INSGHTS.pbix)
 - [Presentation (PPT)](./TESLA%20PPT.pptx)
-- [Dataset 1](./TESLA%20DASHBOARD%20DATASET.csv)  
-- [Dataset 2](./TESLA%20%20CAR%20model%20images.csv)
+- [Dataset](./TESLA%20%20CAR%20model%20images.csv)
 - **Focus**: Model-wise insights, Visual engagement
 - Tools: Power BI, Excel
 
