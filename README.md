@@ -6,8 +6,8 @@ This repository contains complete Power BI case studies created by me using real
 
 ## 1. BMW Global Sales Performance (2019–2023)
 
-- **Dashboard**[BMW GSP DASHBOARD](./BMW%20GLOBAL%20SALES%20PERFORMANCE%20DASHBOARD.pbix) 
-- **Presentation**[BMW GSP PRESENTATION](./BMW%20GSP%20(2019-2023).pptx)
+- **Dashboard**:[BMW GSP DASHBOARD](./BMW%20GLOBAL%20SALES%20PERFORMANCE%20DASHBOARD.pbix) 
+- **Presentation**:[BMW GSP PRESENTATION](./BMW%20GSP%20(2019-2023).pptx)
 - Report: BMW GLOBAL SALES PERFORMANCE Summary
 - **Focus**: Sales performance across global regions, year-wise trends, visual insights
 - Tools: Power BI, Excel
@@ -16,8 +16,8 @@ This repository contains complete Power BI case studies created by me using real
 
 ## 2. Adidas Sales Performance (2020-2021)
 
-- **Dashboard**[ADIDAS SALES PERFORMANCE DASHBOARD](./ADIDAS%20POWER%20BI%20PROJECT.pbix) 
-- **Presentation**[ADIDAS SALES PERFORMANCE PRESENTATION](./ADIDAS%20power%20bi-project.pptx)
+- **Dashboard**:[ADIDAS SALES PERFORMANCE DASHBOARD](./ADIDAS%20POWER%20BI%20PROJECT.pbix) 
+- **Presentation**:[ADIDAS SALES PERFORMANCE PRESENTATION](./ADIDAS%20power%20bi-project.pptx)
 - **Focus**: Regional Sales, Profit by Sales Method, profitability patterns
 - Tools: Power BI, Excel
 
@@ -25,9 +25,9 @@ This repository contains complete Power BI case studies created by me using real
 
 ## 3. Tesla Marketing Insights
 
-- **Dashboard**[TESLA MARKETING INSIGHTS DASHBOARD](./TESLA%20MARKETING%20INSGHTS.pbix)
-- **Presentation**[TESLA MARKETING INSIGHTS PRESENTATION](./TESLA%20PPT.pptx)
-- **Dataset**[TESLA MODEL IMAGES](./TESLA%20%20CAR%20model%20images.csv)
+- **Dashboard**:[TESLA MARKETING INSIGHTS DASHBOARD](./TESLA%20MARKETING%20INSGHTS.pbix)
+- **Presentation**:[TESLA MARKETING INSIGHTS PRESENTATION](./TESLA%20PPT.pptx)
+- **Dataset**:[TESLA MODEL IMAGES](./TESLA%20%20CAR%20model%20images.csv)
 - **Focus**: Model-wise insights, Visual engagement
 - Tools: Power BI, Excel
 
