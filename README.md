@@ -50,14 +50,6 @@ This dashboard and presentation are part of my personal data visualization portf
 
 ---
 
-## How to View the Dashboards?
-
-The original `.pbix` files are available upon request.  
-To preview dashboards or get interactive versions, email me at:  
-**abinantonypj08@gmail.com**
-
----
-
 ## Key Skills Demonstrated
 
 - Power BI (DAX, modeling, storytelling)
