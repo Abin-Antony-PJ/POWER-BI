@@ -1,23 +1,23 @@
 # Power BI Projects by Abin Antony P J
 
-This repository contains complete Power BI case studies created by me using real-world datasets. Each project includes dashboards, presentations, and datasets — highlighting data storytelling, business insight extraction, and visualization expertise.
+This repository contains complete Power BI case studies created by me using real-world datasets. Each project includes dashboards, presentations, — highlighting data storytelling, business insight extraction, and visualization expertise.
 
 ---
 
 ## 1. BMW Global Sales Performance (2019–2023)
 
-- **Dashboard**:[BMW GSP DASHBOARD](./BMW%20GLOBAL%20SALES%20PERFORMANCE%20DASHBOARD.pbix) 
-- **Presentation**:[BMW GSP PRESENTATION](./BMW%20GSP%20(2019-2023).pptx)
-- Report: BMW GLOBAL SALES PERFORMANCE Summary
-- **Focus**: Sales performance across global regions, year-wise trends, visual insights
+- **Dashboard** : [BMW GSP DASHBOARD](./BMW%20GLOBAL%20SALES%20PERFORMANCE%20DASHBOARD.pbix) 
+- **Presentation** : [BMW GSP PRESENTATION](./BMW%20GSP%20(2019-2023).pptx)
+- Report : BMW GLOBAL SALES PERFORMANCE Summary
+- **Focus** : Sales performance across global regions, year-wise trends, visual insights
 - Tools: Power BI, Excel
 
 ---
 
 ## 2. Adidas Sales Performance (2020-2021)
 
-- **Dashboard**:[ADIDAS SALES PERFORMANCE DASHBOARD](./ADIDAS%20POWER%20BI%20PROJECT.pbix) 
-- **Presentation**:[ADIDAS SALES PERFORMANCE PRESENTATION](./ADIDAS%20power%20bi-project.pptx)
+- **Dashboard** : [ADIDAS SALES PERFORMANCE DASHBOARD](./ADIDAS%20POWER%20BI%20PROJECT.pbix) 
+- **Presentation** : [ADIDAS SALES PERFORMANCE PRESENTATION](./ADIDAS%20power%20bi-project.pptx)
 - **Focus**: Regional Sales, Profit by Sales Method, profitability patterns
 - Tools: Power BI, Excel
 
@@ -25,17 +25,17 @@ This repository contains complete Power BI case studies created by me using real
 
 ## 3. Tesla Marketing Insights
 
-- **Dashboard**:[TESLA MARKETING INSIGHTS DASHBOARD](./TESLA%20MARKETING%20INSGHTS.pbix)
-- **Presentation**:[TESLA MARKETING INSIGHTS PRESENTATION](./TESLA%20PPT.pptx)
-- **Dataset**:[TESLA MODEL IMAGES](./TESLA%20%20CAR%20model%20images.csv)
-- **Focus**: Model-wise insights, Visual engagement
+- **Dashboard** : [TESLA MARKETING INSIGHTS DASHBOARD](./TESLA%20MARKETING%20INSGHTS.pbix)
+- **Presentation** : [TESLA MARKETING INSIGHTS PRESENTATION](./TESLA%20PPT.pptx)
+- **Dataset**: [TESLA MODEL IMAGES](./TESLA%20%20CAR%20model%20images.csv)
+- **Focus** : Model-wise insights, Visual engagement
 - Tools: Power BI, Excel
 
 ---
 
 ## 4. Tracking Global Unicorn Insights by Industry and Valuation
 
-- **Dashboard**:[TRACKING GLOBAL UNICORN INSIGHTS DASHBOARD](./Tracking%20Global%20Unicorns%20-%20Insights%20by%20Industry%20and%20Valuation.pbix)
+- **Dashboard** : [TRACKING GLOBAL UNICORN INSIGHTS DASHBOARD](./Tracking%20Global%20Unicorns%20-%20Insights%20by%20Industry%20and%20Valuation.pbix)
 - **Focus**: Global-wise insights, Visual engagement
 - Tools: Power BI, Excel
 
@@ -63,8 +63,8 @@ This dashboard and presentation are part of my personal data visualization portf
 
 I'm **Abin Antony P J**, a business graduate currently pursuing data science, passionate about transforming raw data into meaningful insights. My core focus is to solve real-world business problems using data-driven solutions through clear and compelling visual storytelling.
 
-**Email**: [abinantonypj08@gmail.com](abinantonypj08@gmail.com)
-**LinkedIn**: [https://www.linkedin.com/in/abin-antony-p-j/](https://www.linkedin.com/in/abin-antony-p-j/)
+**Email** : [abinantonypj08@gmail.com](abinantonypj08@gmail.com)
+**LinkedIn** : [https://www.linkedin.com/in/abin-antony-p-j/](https://www.linkedin.com/in/abin-antony-p-j/)
 
 ---
 
