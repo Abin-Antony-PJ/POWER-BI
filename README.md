@@ -1,6 +1,6 @@
 # Power BI Projects by Abin Antony P J
 
-This repository contains complete Power BI case studies created by me using real-world datasets. Each project includes dashboards, presentations, — highlighting data storytelling, business insight extraction, and visualization expertise.
+This repository contains complete Power BI case studies created by me using real-world datasets. Each project includes dashboards, presentations — highlighting data storytelling, business insight extraction, and visualization expertise.
 
 ---
 
