@@ -61,8 +61,7 @@ To preview dashboards or get interactive versions, email me at:
 
 ## About Me
 
-I'm **Abin Antony P J**, a data science graduate passionate about crafting data-driven narratives that inform and inspire.  
-This repository showcases my ability to turn raw datasets into clear, impactful insights.
+I'm **Abin Antony P J**, a business graduate currently pursuing data science, passionate about transforming raw data into meaningful insights. My core focus is to solve real-world business problems using data-driven solutions through clear and compelling visual storytelling.
 
 **Email**: [abinantonypj08@gmail.com](abinantonypj08@gmail.com)
 **LinkedIn**: [https://www.linkedin.com/in/abin-antony-p-j/](https://www.linkedin.com/in/abin-antony-p-j/)
