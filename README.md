@@ -10,7 +10,7 @@ This repository contains complete Power BI case studies created by me using real
 - **Presentation** : [BMW GSP PRESENTATION](./BMW%20GSP%20(2019-2023).pptx)
 - Report : BMW GLOBAL SALES PERFORMANCE Summary
 - **Focus** : Sales performance across global regions, year-wise trends, visual insights
-- Tools: Power BI, Excel
+- Tools: Power BI, Excel, PowerPoint
 
 ---
 
@@ -19,7 +19,7 @@ This repository contains complete Power BI case studies created by me using real
 - **Dashboard** : [ADIDAS SALES PERFORMANCE DASHBOARD](./ADIDAS%20POWER%20BI%20PROJECT.pbix) 
 - **Presentation** : [ADIDAS SALES PERFORMANCE PRESENTATION](./ADIDAS%20power%20bi-project.pptx)
 - **Focus**: Regional Sales, Profit by Sales Method, profitability patterns
-- Tools: Power BI, Excel
+- Tools: Power BI, Excel, PowerPoint
 
 ---
 
@@ -29,7 +29,7 @@ This repository contains complete Power BI case studies created by me using real
 - **Presentation** : [TESLA MARKETING INSIGHTS PRESENTATION](./TESLA%20PPT.pptx)
 - **Dataset**: [TESLA MODEL IMAGES](./TESLA%20%20CAR%20model%20images.csv)
 - **Focus** : Model-wise insights, Visual engagement
-- Tools: Power BI, Excel
+- Tools: Power BI, Excel, PowerPoint
 
 ---
 
@@ -37,7 +37,7 @@ This repository contains complete Power BI case studies created by me using real
 
 - **Dashboard** : [TRACKING GLOBAL UNICORN INSIGHTS DASHBOARD](./Tracking%20Global%20Unicorns%20-%20Insights%20by%20Industry%20and%20Valuation.pbix)
 - **Focus**: Global-wise insights, Visual engagement
-- Tools: Power BI, Excel
+- Tools: Power BI, Excel, PowerPoint
 
 ---
 
