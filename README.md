@@ -8,7 +8,6 @@ This repository contains complete Power BI case studies created by me using real
 
 - [Dashboard](./ADIDAS%20POWER%20BI%20PROJECT.pbix) 
 - [Presentation (PPT)](./BMW%20GSP%20(2019-2023).pptx)
-- [Dataset](./BMW_Sales_Data.csv)
 - Report: BMW GLOBAL SALES PERFORMANCE Summary
 - **Focus**: Sales performance across global regions, year-wise trends, visual insights
 - Tools: Power BI, Excel
@@ -19,7 +18,6 @@ This repository contains complete Power BI case studies created by me using real
 
 - [Dashboard](./ADIDAS%20POWER%20BI%20PROJECT.pbix) 
 - [Presentation (PPT)](./ADIDAS%20power%20bi-project.pptx)
-- [Dataset](./Adidas%20Dataset.csv)
 - **Focus**: Regional Sales, Profit by Sales Method, profitability patterns
 - Tools: Power BI, Excel
 
