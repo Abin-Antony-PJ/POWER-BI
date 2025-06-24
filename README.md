@@ -45,10 +45,10 @@ This repository contains complete Power BI case studies created by me using real
 
 This project uses the publicly available dataset from Kaggle:
 
-[BMW GSP — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-[ADIDAS SALES PERFORMANCE — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-[TESLA MARKETING INSIGHTS — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-[ALL THE UNICORNS IN THE WORLD — Kaggle]([https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/shubhamoujlayan/all-the-unicorns-in-the-world?resource=download))
+- [BMW GSP — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- [ADIDAS SALES PERFORMANCE — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- [TESLA MARKETING INSIGHTS — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- [ALL THE UNICORNS IN THE WORLD — Kaggle]([https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/shubhamoujlayan/all-the-unicorns-in-the-world?resource=download))
 
 > **Note**: The dataset is not included in this repository due to redistribution restrictions. Please download it directly from Kaggle to replicate the project.
 
