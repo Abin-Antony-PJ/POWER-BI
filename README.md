@@ -41,6 +41,19 @@ This repository contains complete Power BI case studies created by me using real
 
 ---
 
+## Dataset Source
+
+This project uses the publicly available dataset from Kaggle:
+
+[BMW GSP — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+[ADIDAS SALES PERFORMANCE — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+[TESLA MARKETING INSIGHTS — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+[ALL THE UNICORNS IN THE WORLD — Kaggle]([https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/shubhamoujlayan/all-the-unicorns-in-the-world?resource=download))
+
+> **Note**: The dataset is not included in this repository due to redistribution restrictions. Please download it directly from Kaggle to replicate the project.
+
+---
+
 ## Usage Notice
 
 This dashboard and presentation are part of my personal data visualization portfolio.  
@@ -65,6 +78,14 @@ I'm **Abin Antony P J**, a business graduate currently pursuing data science, pa
 
 **Email** : [abinantonypj08@gmail.com](abinantonypj08@gmail.com)
 **LinkedIn** : [https://www.linkedin.com/in/abin-antony-p-j/](https://www.linkedin.com/in/abin-antony-p-j/)
+
+---
+## License
+
+This project is licensed under the **MIT License**.  
+You are free to learn from and build upon the code with proper attribution. Commercial use or redistribution of project files (including presentation materials) is not permitted without permission.
+
+> See [LICENSE](LICENSE) file for full terms.
 
 ---
 
